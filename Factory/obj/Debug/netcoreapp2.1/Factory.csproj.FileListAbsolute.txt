@@ -1,0 +1,24 @@
+C:\Users\felipe\source\repos\Bank\Factory\bin\Debug\netcoreapp2.1\Factory.deps.json
+C:\Users\felipe\source\repos\Bank\Factory\bin\Debug\netcoreapp2.1\Factory.dll
+C:\Users\felipe\source\repos\Bank\Factory\bin\Debug\netcoreapp2.1\Factory.pdb
+C:\Users\felipe\source\repos\Bank\Factory\obj\Debug\netcoreapp2.1\Factory.csprojAssemblyReference.cache
+C:\Users\felipe\source\repos\Bank\Factory\obj\Debug\netcoreapp2.1\Factory.csproj.CoreCompileInputs.cache
+C:\Users\felipe\source\repos\Bank\Factory\obj\Debug\netcoreapp2.1\Factory.AssemblyInfoInputs.cache
+C:\Users\felipe\source\repos\Bank\Factory\obj\Debug\netcoreapp2.1\Factory.AssemblyInfo.cs
+C:\Users\felipe\source\repos\Bank\Factory\obj\Debug\netcoreapp2.1\Factory.dll
+C:\Users\felipe\source\repos\Bank\Factory\obj\Debug\netcoreapp2.1\Factory.pdb
+C:\Users\felipe\source\repos\Bank\Factory\bin\Debug\netcoreapp2.1\DTO.dll
+C:\Users\felipe\source\repos\Bank\Factory\bin\Debug\netcoreapp2.1\DTO.pdb
+C:\Users\felipe\source\repos\Bank\Factory\obj\Debug\netcoreapp2.1\Factory.csproj.CopyComplete
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Factory\bin\Debug\netcoreapp2.1\Factory.deps.json
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Factory\bin\Debug\netcoreapp2.1\Factory.dll
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Factory\bin\Debug\netcoreapp2.1\Factory.pdb
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Factory\bin\Debug\netcoreapp2.1\DTO.dll
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Factory\bin\Debug\netcoreapp2.1\DTO.pdb
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Factory\obj\Debug\netcoreapp2.1\Factory.csprojAssemblyReference.cache
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Factory\obj\Debug\netcoreapp2.1\Factory.csproj.CoreCompileInputs.cache
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Factory\obj\Debug\netcoreapp2.1\Factory.AssemblyInfoInputs.cache
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Factory\obj\Debug\netcoreapp2.1\Factory.AssemblyInfo.cs
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Factory\obj\Debug\netcoreapp2.1\Factory.csproj.CopyComplete
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Factory\obj\Debug\netcoreapp2.1\Factory.dll
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Factory\obj\Debug\netcoreapp2.1\Factory.pdb

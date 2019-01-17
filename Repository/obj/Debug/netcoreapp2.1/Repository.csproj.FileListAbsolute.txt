@@ -1,0 +1,24 @@
+C:\Users\felipe\source\repos\Bank\Repository\bin\Debug\netcoreapp2.1\Repository.deps.json
+C:\Users\felipe\source\repos\Bank\Repository\bin\Debug\netcoreapp2.1\Repository.dll
+C:\Users\felipe\source\repos\Bank\Repository\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\felipe\source\repos\Bank\Repository\obj\Debug\netcoreapp2.1\Repository.csprojAssemblyReference.cache
+C:\Users\felipe\source\repos\Bank\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\felipe\source\repos\Bank\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+C:\Users\felipe\source\repos\Bank\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+C:\Users\felipe\source\repos\Bank\Repository\obj\Debug\netcoreapp2.1\Repository.dll
+C:\Users\felipe\source\repos\Bank\Repository\obj\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\felipe\source\repos\Bank\Repository\bin\Debug\netcoreapp2.1\DTO.dll
+C:\Users\felipe\source\repos\Bank\Repository\bin\Debug\netcoreapp2.1\DTO.pdb
+C:\Users\felipe\source\repos\Bank\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CopyComplete
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Repository\bin\Debug\netcoreapp2.1\Repository.deps.json
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Repository\bin\Debug\netcoreapp2.1\Repository.dll
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Repository\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Repository\bin\Debug\netcoreapp2.1\DTO.dll
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Repository\bin\Debug\netcoreapp2.1\DTO.pdb
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Repository\obj\Debug\netcoreapp2.1\Repository.csprojAssemblyReference.cache
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CopyComplete
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Repository\obj\Debug\netcoreapp2.1\Repository.dll
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Repository\obj\Debug\netcoreapp2.1\Repository.pdb

@@ -1,0 +1,18 @@
+C:\Users\felipe\source\repos\Bank\DTO\bin\Debug\netcoreapp2.1\DTO.deps.json
+C:\Users\felipe\source\repos\Bank\DTO\bin\Debug\netcoreapp2.1\DTO.dll
+C:\Users\felipe\source\repos\Bank\DTO\bin\Debug\netcoreapp2.1\DTO.pdb
+C:\Users\felipe\source\repos\Bank\DTO\obj\Debug\netcoreapp2.1\DTO.csprojAssemblyReference.cache
+C:\Users\felipe\source\repos\Bank\DTO\obj\Debug\netcoreapp2.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\felipe\source\repos\Bank\DTO\obj\Debug\netcoreapp2.1\DTO.AssemblyInfoInputs.cache
+C:\Users\felipe\source\repos\Bank\DTO\obj\Debug\netcoreapp2.1\DTO.AssemblyInfo.cs
+C:\Users\felipe\source\repos\Bank\DTO\obj\Debug\netcoreapp2.1\DTO.dll
+C:\Users\felipe\source\repos\Bank\DTO\obj\Debug\netcoreapp2.1\DTO.pdb
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\DTO\bin\Debug\netcoreapp2.1\DTO.deps.json
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\DTO\bin\Debug\netcoreapp2.1\DTO.dll
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\DTO\bin\Debug\netcoreapp2.1\DTO.pdb
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\DTO\obj\Debug\netcoreapp2.1\DTO.csprojAssemblyReference.cache
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\DTO\obj\Debug\netcoreapp2.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\DTO\obj\Debug\netcoreapp2.1\DTO.AssemblyInfoInputs.cache
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\DTO\obj\Debug\netcoreapp2.1\DTO.AssemblyInfo.cs
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\DTO\obj\Debug\netcoreapp2.1\DTO.dll
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\DTO\obj\Debug\netcoreapp2.1\DTO.pdb

@@ -1,0 +1,46 @@
+C:\Users\felipe\source\repos\Bank\Test\obj\Debug\netcoreapp2.1\Test.csprojAssemblyReference.cache
+C:\Users\felipe\source\repos\Bank\Test\obj\Debug\netcoreapp2.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\felipe\source\repos\Bank\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfoInputs.cache
+C:\Users\felipe\source\repos\Bank\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfo.cs
+C:\Users\felipe\source\repos\Bank\Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\felipe\source\repos\Bank\Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\felipe\source\repos\Bank\Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\felipe\source\repos\Bank\Test\bin\Debug\netcoreapp2.1\Test.deps.json
+C:\Users\felipe\source\repos\Bank\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.json
+C:\Users\felipe\source\repos\Bank\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.dev.json
+C:\Users\felipe\source\repos\Bank\Test\bin\Debug\netcoreapp2.1\Test.dll
+C:\Users\felipe\source\repos\Bank\Test\bin\Debug\netcoreapp2.1\Test.pdb
+C:\Users\felipe\source\repos\Bank\Test\bin\Debug\netcoreapp2.1\Api.dll
+C:\Users\felipe\source\repos\Bank\Test\bin\Debug\netcoreapp2.1\DTO.dll
+C:\Users\felipe\source\repos\Bank\Test\bin\Debug\netcoreapp2.1\Factory.dll
+C:\Users\felipe\source\repos\Bank\Test\bin\Debug\netcoreapp2.1\Repository.dll
+C:\Users\felipe\source\repos\Bank\Test\bin\Debug\netcoreapp2.1\Api.pdb
+C:\Users\felipe\source\repos\Bank\Test\bin\Debug\netcoreapp2.1\DTO.pdb
+C:\Users\felipe\source\repos\Bank\Test\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\felipe\source\repos\Bank\Test\bin\Debug\netcoreapp2.1\Factory.pdb
+C:\Users\felipe\source\repos\Bank\Test\obj\Debug\netcoreapp2.1\Test.csproj.CopyComplete
+C:\Users\felipe\source\repos\Bank\Test\obj\Debug\netcoreapp2.1\Test.dll
+C:\Users\felipe\source\repos\Bank\Test\obj\Debug\netcoreapp2.1\Test.pdb
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Test\bin\Debug\netcoreapp2.1\Test.deps.json
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.json
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.dev.json
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Test\bin\Debug\netcoreapp2.1\Test.dll
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Test\bin\Debug\netcoreapp2.1\Test.pdb
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Test\bin\Debug\netcoreapp2.1\Api.dll
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Test\bin\Debug\netcoreapp2.1\DTO.dll
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Test\bin\Debug\netcoreapp2.1\Factory.dll
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Test\bin\Debug\netcoreapp2.1\Repository.dll
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Test\bin\Debug\netcoreapp2.1\Api.pdb
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Test\bin\Debug\netcoreapp2.1\DTO.pdb
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Test\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Test\bin\Debug\netcoreapp2.1\Factory.pdb
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Test\obj\Debug\netcoreapp2.1\Test.csprojAssemblyReference.cache
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Test\obj\Debug\netcoreapp2.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfoInputs.cache
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfo.cs
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Test\obj\Debug\netcoreapp2.1\Test.csproj.CopyComplete
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Test\obj\Debug\netcoreapp2.1\Test.dll
+C:\Users\felipe\Desktop\Projeto GIT HUB\Bank\Test\obj\Debug\netcoreapp2.1\Test.pdb
