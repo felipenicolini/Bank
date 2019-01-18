@@ -13,11 +13,11 @@ Accept application/json
 {
 	"contaOrigem": 
   	{
-    	"numero": "0001",
+    	"numero": "0001"
     },
 	"contaDestino": 
   	{
-		"numero": "0002",
+		"numero": "0002"
 	},
 	"valor": 100
 }
